@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.nii
+*.nii.gz
+*.mgz
+*.ckpt
+*.tar.gz
+*.zip
+data/raw/
+data/derived/
+.DS_Store

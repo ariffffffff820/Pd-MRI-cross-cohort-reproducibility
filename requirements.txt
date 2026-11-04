@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+nibabel
+boto3
+neuroCombat
+# embedding extraction notebook (GPU):
+antspyx==0.6.3
+monai==1.3.2
+SimpleITK
+einops
+scikit-image
+tqdm
+# torch is provided by the Kaggle image (2.11.0 with CUDA 12.8 was used); FastSurfer and BrainIAC are cloned from GitHub
