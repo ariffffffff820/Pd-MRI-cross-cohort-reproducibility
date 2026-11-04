@@ -1,0 +1,44 @@
+code	status	UPDRS_motor_ON	UPDRS_motor_OFF	Treatment	age	sex	H&Y	birthdate	scan_date
+control032014	NORMAL				53	M		6/16/1959	11/4/2012
+control032015	NORMAL				64	M		1/30/1948	11/4/2012
+control032016	NORMAL				58	F		10/5/1954	11/4/2012
+control032017	NORMAL				77	F		3/27/1935	11/11/2012
+control032018	NORMAL				55	F		4/3/1957	11/11/2012
+control032019	NORMAL				56	F		1/20/1956	12/15/2012
+control032020	NORMAL				76	F		10/18/1937	7/20/2013
+control032021	NORMAL				56	F		4/17/1957	7/20/2013
+control032022	NORMAL				46	F		9/25/1967	7/20/2013
+control032023	NORMAL				82	F		6/22/1931	4/27/2014
+control032024	NORMAL				71	F		11/14/1942	5/11/2014
+control032025	NORMAL				74	M		12/17/1939	5/11/2014
+control032026	NORMAL				78	F		7/15/1936	5/11/2014
+control032027	NORMAL				81	M		11/17/1933	5/11/2014
+control032028	NORMAL				76	F		9/1/1938	5/11/2014
+control032029	NORMAL				79	F		6/6/1935	5/25/2014
+patient032030	PD	14	36	Madopar ON-OFF	76	F	2	7/12/1936	11/11/2012
+patient032031	PD	14	36	Madopar ON-OFF	75	F	2	7/10/1937	11/11/2012
+patient032032	PD	15	39	Madopar ON-OFF	74	M	2	8/13/1938	12/2/2012
+patient032033	PD	15	38	Madopar din 2007 ON-OFF	67	M	2	3/21/1945	12/2/2012
+patient032034	PD	15	38	Madopar ON-OFF	79	M	2	12/23/1933	12/2/2012
+patient032035	PD	12	34	No Madopar (agonist, mirapexin)	60	M	2	2/9/1952	12/2/2012
+patient032036	PD	14	36	No Madopar (agonist?)	67	F	2	8/7/1945	12/2/2012
+patient032037	PD	11	32	Madopar ON-OFF	73	M	2	10/22/1939	12/15/2012
+patient032038	PD	15	38	Madopar ON-OFF	68	F	2	2/28/1944	12/15/2012
+patient032039	PD	0	10	No treatment	60	M	1	11/8/1952	12/15/2012
+patient032040	PD	15	38	Madopar for 1 year ON-OFF	66	M	2	4/1/1947	7/20/2013
+patient032041	PD	10	31	Madopar for 1 week	54	M	2	4/3/1959	7/20/2013
+patient032042	PD	19	43	Duodopa ON-OFF, duodopa pump (severe)	74	F	2	12/15/1939	7/27/2013
+patient032043	PD	11	30	Madopar ON-OFF	64	F	2	10/25/1949	7/27/2013
+patient032044	PD	7	27	Madopar ON-OFF, azilect	84	M	2	5/6/1930	04/13/2014, 05/25/2014
+patient032045	PD	3	17	Madopar ON-OFF	82	M	2	8/25/1932	4/13/2014
+patient032046	PD	6	25	Stalevo (carbidopa/entacapone/levodopa), Ropinirol, azilect	61	M	2	4/26/1953	4/13/2014
+patient032047	PD	3	14	Rasagilina, Mirapexin	45	M	1	2/17/1969	4/13/2014
+patient032048	PD	1	13	Madopar ON-OFF	54	M	1.5	7/23/1960	5/27/2014
+patient032049	PD	5	18	madopar ON-OFF, azilect, mirapexin	74	F	2	11/30/1940	4/27/2014
+patient032050	PD	5	21	Madopar ON-OFF	86	M	2	12/28/1928	4/27/2014
+patient032051	PD	10	33	Madopar ON-OFF, azilect, neurpro	84	M	2.5	8/11/1929	4/27/2014
+patient032052	PD	7	26	Mirapexin, azilect	63	M	2	10/25/1950	5/25/2014
+patient032053	PD	1	16	Positive Madopar test on scanning day	51	M	1.5	10/31/1963	5/25/2014
+patient032054	PD	9	28	Madopar ON-OFF, azilect, stalevo, neurpro	66	F	2.5	11/22/1947	7/6/2014
+patient032055	PD	6	23	Madopar ON-OFF, azilect, mirapexin	74	F	2	2/14/1940	7/6/2014
+patient032056	PD	6	25	Madopar ON-OFF, azilect, reqip moditab	74	F	2	10/18/1939	7/6/2014
